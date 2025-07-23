@@ -19,4 +19,6 @@ int main()
     std::cout << &u << " " << sizeof(u) << std::endl;
     std::cout << &i << " " << sizeof(i) << std::endl;
     std::cout << &o << " " << sizeof(o) << std::endl;
+
+    return 0;
 }
